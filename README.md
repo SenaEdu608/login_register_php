@@ -1,7 +1,9 @@
 # LOGIN Y REGISTRO CON PHP
 
-**Evidencia:** Evidencia de desempeño: GA7-220501096-AA5-EV01 diseño y desarrollo de servicios web - caso
+**Evidencia:** GA7-220501096-AA5-EV01 diseño y desarrollo de servicios web - caso
+
 **Nombre:** John Jairo Zamudio Agudelo  
+
 **Ficha:** 2977467
 
 
@@ -42,7 +44,7 @@ login_register_php/
 ## Instrucciones para ejecutar
 
 1. Clonar o copiar el proyecto en la carpeta:  
-   `C:\xampp\htdocs\GA7-220501096-AA5-EV01`
+   `C:\xampp\htdocs\login_register_php`
 
 2. Iniciar **Apache** desde XAMPP.
 
