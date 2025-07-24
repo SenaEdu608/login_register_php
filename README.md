@@ -1,5 +1,6 @@
-# GA7-220501096-AA5-EV01 - Diseño y desarrollo de servicios web
+# LOGIN Y REGISTRO CON PHP
 
+**Evidencia:** GA7-220501096-AA5-EV01 - Diseño y desarrollo de servicios web
 **Nombre:** John Jairo Zamudio Agudelo  
 **Ficha:** 2977467
 
@@ -15,7 +16,7 @@ Se diseñó y desarrolló un servicio web en PHP para:
 
 ## Estructura de carpetas
 ```
-GA7-220501096-AA5-EV01/
+login_register_php/
 ├── html/
 │   ├── login.html
 │   └── register.html
@@ -46,7 +47,7 @@ GA7-220501096-AA5-EV01/
 2. Iniciar **Apache** desde XAMPP.
 
 3. Acceder desde el navegador a:  
-   [http://localhost/GA7-220501096-AA5-EV01/html/register.html](http://localhost/GA7-220501096-AA5-EV01/html/register.html)
+   [http://localhost/login_register_php/html/register.html](http://localhost/GA7-220501096-AA5-EV01/html/register.html)
 
 4. Registrar un usuario y luego iniciar sesión.
 
