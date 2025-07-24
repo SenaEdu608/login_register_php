@@ -13,7 +13,7 @@ Se diseñó y desarrolló un servicio web en PHP para:
 - Almacenamiento de datos en formato JSON.
 
 ## Estructura de carpetas
-
+```
 GA7-220501096-AA5-EV01/
 ├── html/
 │   ├── login.html
@@ -25,8 +25,9 @@ GA7-220501096-AA5-EV01/
 ├── php/
 │   ├── login.php
 │   ├── register.php
-│   ├─ dashboard.php
+│   ├── dashboard.php
 │   └── usuarios.json
+```
  
 ## Herramientas utilizadas
 
