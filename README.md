@@ -61,6 +61,6 @@ GA7-220501096-AA5-EV01/
 
 ## Repositorio Git
 
-[git@github.com:SenaEdu608/login_register_php.git]((http://localhost/GA7-220501096-AA5-EV01/html/register.html))
+[https://github.com/SenaEdu608/login_register_php.git](https://github.com/SenaEdu608/login_register_php.git)
 
 ---
