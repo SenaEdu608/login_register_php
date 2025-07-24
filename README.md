@@ -1,6 +1,6 @@
 # GA7-220501096-AA5-EV01 - Diseño y desarrollo de servicios web
 
-**John Jairo Zamudio Agudelo**  
+**Nombre:** John Jairo Zamudio Agudelo  
 **Ficha:** 2977467
 
 
@@ -61,6 +61,6 @@ GA7-220501096-AA5-EV01/
 
 ## Repositorio Git
 
-[Agrega aquí el enlace a tu repositorio en GitHub, GitLab o cualquier plataforma.]
+[git@github.com:SenaEdu608/login_register_php.git]((http://localhost/GA7-220501096-AA5-EV01/html/register.html))
 
 ---
