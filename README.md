@@ -1,6 +1,7 @@
 # GA7-220501096-AA5-EV01 - Diseño y desarrollo de servicios web
-John Jairo Zamudio Agudelo
-FIcha 2977467
+
+**John Jairo Zamudio Agudelo**  
+**Ficha:** 2977467
 
 
 ## Descripción del proyecto
